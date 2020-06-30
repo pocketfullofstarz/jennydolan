@@ -32,13 +32,15 @@ hr {
 }
 
 .mountain {
-  max-width: 60%;
+  max-width: 65%;
   display: inline-flex;
 }
 
 .jenny {
-  max-width: 13%;
+  max-width: 30%;
   display: inline-flex;
+  border-radius: 100%;
+
 }
 
 .management {
@@ -56,6 +58,7 @@ hr {
 .hello {
   font-weight: bold;
   font-family: 'Montserrat', sans-serif;
+
 }
 
 body {
@@ -105,7 +108,7 @@ h3 {
 
 .attribution {
   font-family: 'Merriweather', sans-serif;
-  font-size: .80rem;
+  font-size: 1rem;
   background-color: #393e46;
   color: white;
   padding-top: 20px;
@@ -131,7 +134,8 @@ h3 {
 
 p {
   margin: auto;
-  line-height: 1.50;
+  line-height: 1.20;
+  font-size: 1.2rem;
 }
 
 .contact-message {
@@ -164,4 +168,12 @@ a {
 
 a:hover{
   color: #eaF6f6;
+}
+
+p.copy {
+
+    margin: auto;
+
+
+
 }
